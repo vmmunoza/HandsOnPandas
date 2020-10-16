@@ -2,4 +2,4 @@
 
 ## Basic tutorial to start using Pandas !
 
-<img src="pandas.png" alt="drawing", heigh='300' />
+<img src="pandas.png" alt="drawing", height="300" />
