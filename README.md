@@ -1,4 +1,4 @@
-# HandsOnPandas
+# Hands On Pandas
 
 ## Basic tutorial to start using Pandas in Python!
 
